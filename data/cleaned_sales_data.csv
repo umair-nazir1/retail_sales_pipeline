@@ -1,0 +1,11 @@
+OrderID,Date,CustomerName,Product,Quantity,Price
+1001,2025-05-01,Khan Ali,Laptop,1,75000
+1002,2025-06-01,Sara Ahmed,Mouse,2,1500
+1003,2025-06-01,Omer Malik,Keyboard,1,3500
+1004,2025-07-01,Ayesha Noor,Laptop,1,76000
+1005,2025-08-01,Ali Khan,Headphones,2,4000
+1006,2025-08-01,Usman Ali,Mouse,3,1500
+1007,2025-09-01,Fatima Khan,Monitor,1,25000
+1008,2025-10-01,Omer Malik,Laptop,1,74000
+1009,2025-10-01,Sara Ahmed,Keyboard,2,3400
+1010,2025-11-01,Ali Khan,Mouse,1,1500
