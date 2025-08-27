@@ -1,6 +1,7 @@
 -- === Retail Sales Analysis : SQL Scripts ===
 -- How to run in SQLite shell:
 --   .read sql/queries.sql
+-- these are the quries
 
 -- Make outputs readable in sqlite shell (these are sqlite dot-commands)
 .headers on
